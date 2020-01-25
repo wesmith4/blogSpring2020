@@ -1,0 +1,14 @@
+# Saturday, January 25
+
+Yesterday marked the end of the second week of the Davidson in Silicon Valley program.  I had intended on beginning this blog earlier on in the program, but the pace and novelty of our curriculum and this location have not been very conducive to just sitting down and writing.  Later, I might add in some reflections and contextual information from the first two weeks.
+
+It has been hard to believe how much I have enjoyed the learning style promoted by Adjacent Academies.  Similarly to the average Davidson class, the instruction is heavily based on learning the "right" way before moving on to more complex and compounding concepts.  In the last two weeks, we have been presented with several sets of exercises using the Javascript language to develop and practice our skills with the syntax and processes of writing code for programs.  Something I have really enjoyed is that Jesse (Jesse Farmer, our technical instructor) has given us all of these exercises and projects of various scales, and, for each, there is a pretty clear indication of whether it has worked.  The exercises were meant to be completed on an individual basis, but each week we have been challenged with a group project to practice writing code with a purpose, deadline, and a team.  As such, they were just as much exercises in group dynamics and cooperation as they were technical projects.
+
+Related to this, my biggest struggle in the program so far has been relating to the other students as we work together on projects.  Up to this point, I have progressed pretty rapidly through the exercises, as I have been quick to understand the concepts, albeit after struggling with some of them first.  However, this is not the case for everyone - for many of the other students, the exercises have not come quickly, and it has been difficult for me to work with someone without the same understanding and not dominate the working relationship.  I think this reflects on my longstanding struggle to explain the way my brain works to other people.
+
+### As far as living in San Francisco...
+
+It has been great living in the city so far - living in the dorm building up on Nob Hill, having a short walking commute to the office every day, and trying a lot of new restaurants through our Ritual food-ordering app (though I wish we just received cash to spend at any restaurant).  I have gotten into a pretty good routine of running in the morning or in the evening - I enjoy it more in the morning here, because I can usually see the sunrise at the time when I usually run.  This morning, actually, I am going to join a large group for an 11-mile memorial run through the streets of SF.  It's called the Fast as Sam run, and largely attended by participants of the November Project, a morning workout group I have attended on Wednesdays the past couple of weeks.  
+
+
+
